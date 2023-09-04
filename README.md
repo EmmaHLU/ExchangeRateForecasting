@@ -7,7 +7,7 @@
 MSE for ALL:0.014008814. The detailed MSE is shown in the table below.
 ![image](https://github.com/EmmaHLU/ExchangeRateForecasting/assets/124171401/ca8cda5c-a292-4dfb-a6bb-ffd6247bb879)
 
-The following figure shows the prediction vs the grouth truth for each of the 15 days in the test dataset containing 442 data points.
+The following figure shows the prediction vs the ground truth for each of the 15 days in the test dataset containing 442 data points.
 <img width="1225" alt="Screenshot 2023-08-30 at 13 19 48" src="https://github.com/EmmaHLU/ExchangeRateForecasting/assets/124171401/d2a0cc1f-9e15-40f4-acf4-5da2a469ce6b">
 <img width="1231" alt="Screenshot 2023-08-30 at 13 20 32" src="https://github.com/EmmaHLU/ExchangeRateForecasting/assets/124171401/a2b207a1-bcc8-49a7-88b6-cb38a179b161">
 <img width="1229" alt="Screenshot 2023-08-30 at 13 21 18" src="https://github.com/EmmaHLU/ExchangeRateForecasting/assets/124171401/626c43f2-7fb5-4dd2-9288-0cf7f2044837">
